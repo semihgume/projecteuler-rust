@@ -1,1 +1,1 @@
-# projecteuler-rust
+# Project Euler with Rust
